@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\SQL TRYS\DepoTakip\DepoTakip\bin\Debug\DepoTakip.exe.config
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\SQL TRYS\DepoTakip\DepoTakip\bin\Debug\DepoTakip.exe
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\SQL TRYS\DepoTakip\DepoTakip\bin\Debug\DepoTakip.pdb
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\SQL TRYS\DepoTakip\DepoTakip\obj\Debug\DepoTakip.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\SQL TRYS\DepoTakip\DepoTakip\obj\Debug\DepoTakip.Form1.resources
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\SQL TRYS\DepoTakip\DepoTakip\obj\Debug\DepoTakip.Properties.Resources.resources
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\SQL TRYS\DepoTakip\DepoTakip\obj\Debug\DepoTakip.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\SQL TRYS\DepoTakip\DepoTakip\obj\Debug\DepoTakip.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\SQL TRYS\DepoTakip\DepoTakip\obj\Debug\DepoTakip.exe
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\SQL TRYS\DepoTakip\DepoTakip\obj\Debug\DepoTakip.pdb
